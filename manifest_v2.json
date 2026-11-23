@@ -1,0 +1,56 @@
+{
+  "item": {
+    "id": "979896141003",
+    "restype": "watchface",
+    "name": "像素小骷髅",
+    "description": "把一个会动的小骷髅，戴在手腕上。\n\n时间藏在它的眼睛里，日期在嘴边。点点眼睛，它会用爱心回应；点点嘴巴，可以查看电量；连续点击头部，还有“吃掉日期”的小动画。\n\n轻触它的四肢，小骷髅会做出反应；转动手腕，它也会跟着晃动。想让它安静待着，还可以让它挂回屏幕上方。\n\n息屏时，小骷髅也会留下来，陪你看看时间。",
+    "preview": [
+      "media/01-时间日期.webp",
+      "media/02-查看电量.webp",
+      "media/03-爱心互动.webp",
+      "media/04-吃掉日期.webp",
+      "media/05-悬挂模式.webp",
+      "media/06-随腕而动.webp",
+      "media/07-关节互动.webp",
+      "media/08-熄屏显示.webp"
+    ],
+    "icon": "media/小骷髅.png",
+    "cover": "media/download-5.jpg",
+    "author": [
+      {
+        "name": "914173667",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "详细说明",
+      "url": "https://www.xiaohongshu.com/explore/6af9a7f7000000002a02c53c?xsec_token=ABcKiJzL3EuKrkg0HXN_Pl--7nSWvLhmYf0Iz83Nsb_94=&xsec_source=pc_user",
+      "icon": "book"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "0.9.0",
+      "file_name": "downloads/小骷髅.bin",
+      "versionCode": 2304
+    },
+    "xmb10nfc": {
+      "version": "0.9.0",
+      "file_name": "downloads/小骷髅.bin",
+      "versionCode": 2304
+    },
+    "xmb11": {
+      "version": "0.9.0",
+      "file_name": "downloads/小骷髅.bin",
+      "versionCode": 2304
+    },
+    "xmb11nfc": {
+      "version": "0.9.0",
+      "file_name": "downloads/小骷髅.bin",
+      "versionCode": 2304
+    }
+  },
+  "ext": {}
+}
